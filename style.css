@@ -34,7 +34,7 @@ button {
     margin-top: 25px;
     padding: 12px 25px;
     background-color: #6977f7;
-    color: #000000;
+    color: #000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -99,3 +99,4 @@ button {
         grid-template-columns: 1fr;
     }
 }
+
